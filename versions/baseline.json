@@ -1,5 +1,9 @@
 {
   "default": {
+    "papki": {
+      "baseline": "1.0.145",
+      "port-version": 0
+    },
     "utki": {
       "baseline": "1.1.267",
       "port-version": 0
