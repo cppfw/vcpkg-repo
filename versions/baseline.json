@@ -1,5 +1,9 @@
 {
   "default": {
+    "cssom": {
+      "baseline": "0.2.15",
+      "port-version": 0
+    },
     "mikroxml": {
       "baseline": "0.1.66",
       "port-version": 0
