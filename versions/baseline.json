@@ -1,5 +1,9 @@
 {
   "default": {
+    "mikroxml": {
+      "baseline": "0.1.66",
+      "port-version": 0
+    },
     "papki": {
       "baseline": "1.0.146",
       "port-version": 0
