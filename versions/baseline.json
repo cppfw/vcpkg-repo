@@ -1,5 +1,9 @@
 {
   "default": {
+    "clargs": {
+      "baseline": "0.2.66",
+      "port-version": 0
+    },
     "cssom": {
       "baseline": "0.2.15",
       "port-version": 0
