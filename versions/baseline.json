@@ -24,6 +24,10 @@
       "baseline": "1.0.146",
       "port-version": 0
     },
+    "r4": {
+      "baseline": "1.0.98",
+      "port-version": 0
+    },
     "tst": {
       "baseline": "0.3.44",
       "port-version": 0
