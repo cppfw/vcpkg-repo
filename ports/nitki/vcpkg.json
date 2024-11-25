@@ -1,0 +1,19 @@
+{
+  "name": "nitki",
+  "version": "1.0.90",
+  "description": "Multithreading library in C++",
+  "homepage": "https://github.com/cppfw/nitki",
+  "license": "MIT",
+  "dependencies": [
+    "opros",
+    "utki",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
