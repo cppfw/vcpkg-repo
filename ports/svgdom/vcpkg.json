@@ -1,0 +1,22 @@
+{
+  "name": "svgdom",
+  "version": "0.4.24",
+  "description": "SVG document object model library in C++",
+  "homepage": "https://github.com/cppfw/svgdom",
+  "license": "MIT",
+  "dependencies": [
+    "cssom",
+    "mikroxml",
+    "papki",
+    "r4",
+    "utki",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
