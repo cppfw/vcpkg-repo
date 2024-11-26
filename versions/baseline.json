@@ -47,6 +47,10 @@
     "utki": {
       "baseline": "1.1.267",
       "port-version": 0
+    },
+    "veg": {
+      "baseline": "0.1.3",
+      "port-version": 0
     }
   }
 }
