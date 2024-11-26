@@ -1,0 +1,22 @@
+{
+  "name": "rasterimage",
+  "version": "0.1.26",
+  "description": "raster image library in C++",
+  "homepage": "https://github.com/cppfw/rasterimage",
+  "license": "MIT",
+  "dependencies": [
+    "libjpeg-turbo",
+    "libpng",
+    "papki",
+    "r4",
+    "utki",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
