@@ -1,5 +1,9 @@
 {
   "default": {
+    "agg": {
+      "baseline": "2.8.28",
+      "port-version": 0
+    },
     "clargs": {
       "baseline": "0.2.66",
       "port-version": 0
