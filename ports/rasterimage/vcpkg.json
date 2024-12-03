@@ -1,6 +1,6 @@
 {
   "name": "rasterimage",
-  "version": "0.1.26",
+  "version": "0.1.27",
   "description": "raster image library in C++",
   "homepage": "https://github.com/cppfw/rasterimage",
   "license": "MIT",
