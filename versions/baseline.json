@@ -33,7 +33,7 @@
       "port-version": 0
     },
     "rasterimage": {
-      "baseline": "0.1.26",
+      "baseline": "0.1.27",
       "port-version": 0
     },
     "svgdom": {
