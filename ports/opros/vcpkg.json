@@ -1,6 +1,6 @@
 {
   "name": "opros",
-  "version": "1.0.102",
+  "version": "1.0.103",
   "description": "events waiting library in C++",
   "homepage": "https://github.com/cppfw/opros",
   "license": "MIT",
