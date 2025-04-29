@@ -40,6 +40,10 @@
       "baseline": "0.1.32",
       "port-version": 0
     },
+    "ruis": {
+      "baseline": "0.5.266",
+      "port-version": 0
+    },
     "svgdom": {
       "baseline": "0.4.28",
       "port-version": 0
