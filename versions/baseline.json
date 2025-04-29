@@ -12,6 +12,10 @@
       "baseline": "0.2.18",
       "port-version": 0
     },
+    "jsondom": {
+      "baseline": "0.1.30",
+      "port-version": 0
+    },
     "mikroxml": {
       "baseline": "0.1.69",
       "port-version": 0
