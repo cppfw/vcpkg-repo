@@ -1,0 +1,20 @@
+{
+  "name": "ruis-render-opengl",
+  "version": "0.1.86",
+  "description": "ruis OpenGL renderer",
+  "homepage": "https://github.com/cppfw/ruis-render-opengl",
+  "license": "MIT",
+  "dependencies": [
+    "glew",
+    "ruis",
+    "utki",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
