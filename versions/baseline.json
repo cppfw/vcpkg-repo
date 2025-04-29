@@ -44,6 +44,10 @@
       "baseline": "0.5.266",
       "port-version": 0
     },
+    "ruis-render-opengl": {
+      "baseline": "0.1.86",
+      "port-version": 0
+    },
     "svgdom": {
       "baseline": "0.4.28",
       "port-version": 0
