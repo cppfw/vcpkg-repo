@@ -1,0 +1,25 @@
+{
+  "name": "ruis",
+  "version": "0.5.266",
+  "description": "GUI library in C++",
+  "homepage": "https://github.com/cppfw/ruis",
+  "license": "MIT",
+  "dependencies": [
+    "freetype",
+    "papki",
+    "r4",
+    "rasterimage",
+    "svgren",
+    "tml",
+    "utki",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    },
+    "veg"
+  ]
+}
