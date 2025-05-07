@@ -1,0 +1,17 @@
+{
+  "name": "myci",
+  "version": "0.1.181",
+  "description": "TODO: library short description",
+  "homepage": "https://github.com/cppfw/myci",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
