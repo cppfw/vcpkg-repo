@@ -20,6 +20,10 @@
       "baseline": "0.1.69",
       "port-version": 0
     },
+    "myci": {
+      "baseline": "0.1.181",
+      "port-version": 0
+    },
     "nitki": {
       "baseline": "1.0.91",
       "port-version": 0
