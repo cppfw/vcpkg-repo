@@ -3,8 +3,8 @@ vcpkg_check_linkage(ONLY_STATIC_LIBRARY)
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO cppfw/${PORT}
-    REF 26a05b916434ef1d27fd5776f587ebf204a142ca
-    SHA512 571761a1f5f3f487acc1b980d9d3208ec830fba88d020af5c2473cc10aee57da76716c949dd90959f980b2507e54a154965fce4cb1e9f3cdc19123a7edf6026f
+    REF 8b285d9d9514473bbfcf4eb72243dc5a0ed392bc
+    SHA512 beca677137ea5e280a1c026a0471fe1201774ca3252772becb7fa41a8544b26c08c3fe62f6e28673d5085efb562e7d531574c601cd508f646f90f525fba1bc98
     HEAD_REF main
 )
 
@@ -14,7 +14,9 @@ vcpkg_cmake_configure(
 
 vcpkg_cmake_install()
 
-vcpkg_cmake_config_fixup()
+vcpkg_cmake_config_fixup(
+    CONFIG_PATH share/${PORT}/cmake
+)
 
 # Delete the include directory from the debug installation to prevent overlap.
 file(REMOVE_RECURSE "${CURRENT_PACKAGES_DIR}/debug/include")
