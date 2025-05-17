@@ -1,3 +1,4 @@
+# myci doesn't install any header files
 set(VCPKG_POLICY_EMPTY_INCLUDE_FOLDER enabled)
 
 vcpkg_check_linkage(ONLY_STATIC_LIBRARY)
@@ -5,8 +6,8 @@ vcpkg_check_linkage(ONLY_STATIC_LIBRARY)
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO cppfw/${PORT}
-    REF 6252f069028886fd1c134d08ea6cc2a8cfc6b292
-    SHA512 6c4a93c91046a2ee17eca50adfdf2f04124987215d812594973a44ee6eecf60c98ecc26d3bffc55106eb00ba4570938da8c636d3a9945f7ac6d56d2939e51e4c
+    REF 61d65112abc834dbc46d679f76b024bef710259b
+    SHA512 4c6727811a630f9833a912c05105572ab5fdc4f3f9b8255fc13aa24b551d588c0ba05bad139223a6cb4e02d9efc7719e44f982a730f280c8a72ea505705af42b
     HEAD_REF main
 )
 
