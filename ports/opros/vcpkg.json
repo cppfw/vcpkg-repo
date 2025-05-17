@@ -1,10 +1,14 @@
 {
   "name": "opros",
-  "version": "1.0.103",
+  "version": "1.0.104",
   "description": "events waiting library in C++",
   "homepage": "https://github.com/cppfw/opros",
   "license": "MIT",
   "dependencies": [
+    {
+      "name": "myci",
+      "host": true
+    },
     "utki",
     {
       "name": "vcpkg-cmake",
