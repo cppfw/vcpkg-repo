@@ -1,11 +1,15 @@
 {
   "name": "tst",
-  "version": "0.3.45",
+  "version": "0.3.46",
   "description": "unit tests runner library in C++",
   "homepage": "https://github.com/cppfw/tst",
   "license": "MIT",
   "dependencies": [
     "clargs",
+    {
+      "name": "myci",
+      "host": true
+    },
     "nitki",
     "utki",
     {
