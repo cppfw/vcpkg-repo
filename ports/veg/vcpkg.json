@@ -1,11 +1,15 @@
 {
   "name": "veg",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "vector graphics library in C++",
   "homepage": "https://github.com/cppfw/veg",
   "license": "MIT",
   "dependencies": [
     "agg",
+    {
+      "name": "myci",
+      "host": true
+    },
     "r4",
     "rasterimage",
     "utki",
