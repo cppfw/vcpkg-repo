@@ -1,6 +1,6 @@
 {
   "name": "agg",
-  "version": "2.8.35",
+  "version": "2.8.36",
   "description": "Antigrain Geometry vector graphics library in C++",
   "homepage": "https://github.com/cppfw/agg",
   "license": "MIT",
