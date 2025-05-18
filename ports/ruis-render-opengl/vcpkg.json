@@ -1,11 +1,15 @@
 {
   "name": "ruis-render-opengl",
-  "version": "0.1.86",
+  "version": "0.1.87",
   "description": "ruis OpenGL renderer",
   "homepage": "https://github.com/cppfw/ruis-render-opengl",
   "license": "MIT",
   "dependencies": [
     "glew",
+    {
+      "name": "myci",
+      "host": true
+    },
     "ruis",
     "utki",
     {
