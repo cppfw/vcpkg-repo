@@ -1,6 +1,6 @@
 {
   "name": "jsondom",
-  "version": "0.1.31",
+  "version": "0.1.32",
   "description": "JSON parsing and DOM library in C++",
   "homepage": "https://github.com/cppfw/jsondom",
   "license": "MIT",
