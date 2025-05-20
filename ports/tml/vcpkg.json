@@ -1,6 +1,6 @@
 {
   "name": "tml",
-  "version": "0.2.27",
+  "version": "0.2.28",
   "description": "tree markup language (tml) parsing library in C++",
   "homepage": "https://github.com/cppfw/tml",
   "license": "MIT",
