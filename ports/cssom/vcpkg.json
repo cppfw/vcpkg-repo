@@ -1,6 +1,6 @@
 {
   "name": "cssom",
-  "version": "0.2.19",
+  "version": "0.2.20",
   "description": "CSS object model library in C++",
   "homepage": "https://github.com/cppfw/cssom",
   "license": "MIT",
