@@ -56,6 +56,10 @@
       "baseline": "0.1.88",
       "port-version": 0
     },
+    "ruis-render-opengles": {
+      "baseline": "0.1.74",
+      "port-version": 0
+    },
     "svgdom": {
       "baseline": "0.4.30",
       "port-version": 0
