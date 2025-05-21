@@ -1,0 +1,27 @@
+{
+  "name": "ruis-render-opengles",
+  "version": "0.1.74",
+  "description": "ruis OpenGL ES renderer",
+  "homepage": "https://github.com/cppfw/ruis-render-opengles",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "angle",
+      "platform": "windows"
+    },
+    {
+      "name": "myci",
+      "host": true
+    },
+    "ruis",
+    "utki",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
