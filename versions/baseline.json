@@ -49,7 +49,7 @@
       "port-version": 0
     },
     "ruis-render-null": {
-      "baseline": "0.0.11",
+      "baseline": "0.0.12",
       "port-version": 0
     },
     "ruis-render-opengl": {
