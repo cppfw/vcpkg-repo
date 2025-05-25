@@ -60,6 +60,10 @@
       "baseline": "0.1.75",
       "port-version": 0
     },
+    "ruisapp": {
+      "baseline": "0.2.120",
+      "port-version": 0
+    },
     "svgdom": {
       "baseline": "0.4.30",
       "port-version": 0
