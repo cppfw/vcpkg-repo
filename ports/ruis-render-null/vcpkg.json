@@ -1,6 +1,6 @@
 {
   "name": "ruis-render-null",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "null renderer for ruis GUI library",
   "homepage": "https://github.com/cppfw/ruis-render-null",
   "license": "MIT",
