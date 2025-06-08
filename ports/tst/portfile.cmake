@@ -3,8 +3,8 @@ vcpkg_check_linkage(ONLY_STATIC_LIBRARY)
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO cppfw/${PORT}
-    REF e451ca49459619f73ce8689f54a38d28c402d3aa
-    SHA512 24d668feb3f8d5de3b3e565a7feee0826c62aa9a1ba66a2645eece1cac6b1b88f9cdbc3fecfe82037bacac5d1cc1cb51edc556427e39aaf3bf90f05cd98a9ef4
+    REF 6cbb0a6e8a697d5f41efbe2097cb37218b4a4f54
+    SHA512 c180e391fddebecea5be20aef7f59c86a604f7b41b09b72c3bef2707f9037d831110d50c3d781be151fc48a61308741cf22b60d054868bae804100cab5550d96
     HEAD_REF main
 )
 
