@@ -1,6 +1,6 @@
 {
   "name": "tst",
-  "version": "0.3.48",
+  "version": "0.3.49",
   "description": "unit tests runner library in C++",
   "homepage": "https://github.com/cppfw/tst",
   "license": "MIT",
