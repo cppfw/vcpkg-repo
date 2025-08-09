@@ -1,6 +1,6 @@
 {
   "name": "clargs",
-  "version": "0.2.71",
+  "version": "0.2.72",
   "description": "command line arguments parser library in C++",
   "homepage": "https://github.com/cppfw/clargs",
   "license": "MIT",
