@@ -9,7 +9,7 @@
       "port-version": 0
     },
     "cssom": {
-      "baseline": "0.2.22",
+      "baseline": "0.2.23",
       "port-version": 0
     },
     "jsondom": {
