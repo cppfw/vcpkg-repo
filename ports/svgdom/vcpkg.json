@@ -1,6 +1,6 @@
 {
   "name": "svgdom",
-  "version": "0.4.32",
+  "version": "0.4.33",
   "description": "SVG document object model library in C++",
   "homepage": "https://github.com/cppfw/svgdom",
   "license": "MIT",
