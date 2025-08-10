@@ -1,6 +1,6 @@
 {
   "name": "mikroxml",
-  "version": "0.1.72",
+  "version": "0.1.73",
   "description": "simple stream XML parser in C++",
   "homepage": "https://github.com/cppfw/mikroxml",
   "license": "MIT",
