@@ -1,6 +1,6 @@
 {
   "name": "r4",
-  "version": "1.0.105",
+  "version": "1.0.106",
   "description": "3d vector math library in C++",
   "homepage": "https://github.com/cppfw/r4",
   "license": "MIT",
