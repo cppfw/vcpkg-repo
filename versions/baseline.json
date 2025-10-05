@@ -45,7 +45,7 @@
       "port-version": 0
     },
     "ruis": {
-      "baseline": "0.5.280",
+      "baseline": "0.6.0",
       "port-version": 0
     },
     "ruis-render-null": {
