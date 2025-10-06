@@ -1,6 +1,6 @@
 {
   "name": "ruis-render-opengl",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "ruis OpenGL renderer",
   "homepage": "https://github.com/cppfw/ruis-render-opengl",
   "license": "MIT",
