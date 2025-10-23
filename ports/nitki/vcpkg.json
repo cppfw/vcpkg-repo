@@ -1,6 +1,6 @@
 {
   "name": "nitki",
-  "version": "1.0.98",
+  "version": "1.0.99",
   "description": "Multithreading library in C++",
   "homepage": "https://github.com/cppfw/nitki",
   "license": "MIT",
