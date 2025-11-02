@@ -1,14 +1,11 @@
 {
   "name": "nitki",
-  "version": "1.0.99",
+  "version": "1.0.100",
   "description": "Multithreading library in C++",
   "homepage": "https://github.com/cppfw/nitki",
   "license": "MIT",
   "dependencies": [
-    {
-      "name": "myci",
-      "host": true
-    },
+    "myci",
     "opros",
     "utki",
     {
