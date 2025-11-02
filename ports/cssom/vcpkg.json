@@ -1,15 +1,12 @@
 {
   "name": "cssom",
-  "version": "0.2.23",
+  "version": "0.2.24",
   "description": "CSS object model library in C++",
   "homepage": "https://github.com/cppfw/cssom",
   "license": "MIT",
   "dependencies": [
-    {
-      "name": "myci",
-      "host": true
-    },
-    "papki",
+    "fsif",
+    "myci",
     "utki",
     {
       "name": "vcpkg-cmake",
