@@ -1,6 +1,6 @@
 {
   "name": "fsif",
-  "version": "1.0.157",
+  "version": "1.0.158",
   "description": "filesystem abstraction in C++",
   "homepage": "https://github.com/cppfw/fsif",
   "license": "MIT",
