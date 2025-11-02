@@ -1,14 +1,11 @@
 {
   "name": "utki",
-  "version": "1.1.290",
+  "version": "1.1.291",
   "description": "C++ utility kit library",
   "homepage": "https://github.com/cppfw/utki",
   "license": "MIT",
   "dependencies": [
-    {
-      "name": "myci",
-      "host": true
-    },
+    "myci",
     {
       "name": "vcpkg-cmake",
       "host": true
