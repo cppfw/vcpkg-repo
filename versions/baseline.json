@@ -12,6 +12,10 @@
       "baseline": "0.2.23",
       "port-version": 0
     },
+    "fsif": {
+      "baseline": "1.0.157",
+      "port-version": 0
+    },
     "jsondom": {
       "baseline": "0.1.35",
       "port-version": 0
