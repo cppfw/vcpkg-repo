@@ -1,0 +1,20 @@
+{
+  "name": "fsif",
+  "version": "1.0.157",
+  "description": "filesystem abstraction in C++",
+  "homepage": "https://github.com/cppfw/fsif",
+  "license": "MIT",
+  "dependencies": [
+    "myci",
+    "utki",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    },
+    "zlib"
+  ]
+}

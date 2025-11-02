@@ -1,0 +1,5 @@
+fsif provides CMake targets:
+
+find_package(fsif CONFIG REQUIRED)
+
+target_link_libraries(main PRIVATE fsif::fsif)
