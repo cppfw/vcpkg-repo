@@ -1,14 +1,11 @@
 {
   "name": "svgren",
-  "version": "0.6.29",
+  "version": "0.6.30",
   "description": "SVG resterization library in C++",
   "homepage": "https://github.com/cppfw/svgren",
   "license": "MIT",
   "dependencies": [
-    {
-      "name": "myci",
-      "host": true
-    },
+    "myci",
     "svgdom",
     "utki",
     {
