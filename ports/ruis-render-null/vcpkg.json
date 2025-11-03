@@ -1,14 +1,11 @@
 {
   "name": "ruis-render-null",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "null renderer for ruis GUI library",
   "homepage": "https://github.com/cppfw/ruis-render-null",
   "license": "MIT",
   "dependencies": [
-    {
-      "name": "myci",
-      "host": true
-    },
+    "myci",
     "ruis",
     {
       "name": "vcpkg-cmake",
