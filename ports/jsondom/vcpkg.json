@@ -1,15 +1,12 @@
 {
   "name": "jsondom",
-  "version": "0.1.35",
+  "version": "0.1.36",
   "description": "JSON parsing and DOM library in C++",
   "homepage": "https://github.com/cppfw/jsondom",
   "license": "MIT",
   "dependencies": [
-    {
-      "name": "myci",
-      "host": true
-    },
-    "papki",
+    "fsif",
+    "myci",
     "utki",
     {
       "name": "vcpkg-cmake",
