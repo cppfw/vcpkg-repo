@@ -1,15 +1,12 @@
 {
   "name": "tml",
-  "version": "0.2.32",
+  "version": "0.2.33",
   "description": "tree markup language (tml) parsing library in C++",
   "homepage": "https://github.com/cppfw/tml",
   "license": "MIT",
   "dependencies": [
-    {
-      "name": "myci",
-      "host": true
-    },
-    "papki",
+    "fsif",
+    "myci",
     "utki",
     {
       "name": "vcpkg-cmake",
