@@ -1,17 +1,14 @@
 {
   "name": "svgdom",
-  "version": "0.4.33",
+  "version": "0.4.34",
   "description": "SVG document object model library in C++",
   "homepage": "https://github.com/cppfw/svgdom",
   "license": "MIT",
   "dependencies": [
     "cssom",
+    "fsif",
     "mikroxml",
-    {
-      "name": "myci",
-      "host": true
-    },
-    "papki",
+    "myci",
     "r4",
     "utki",
     {
