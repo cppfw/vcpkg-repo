@@ -1,16 +1,13 @@
 {
   "name": "ruis",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "description": "GUI library in C++",
   "homepage": "https://github.com/cppfw/ruis",
   "license": "MIT",
   "dependencies": [
     "freetype",
-    {
-      "name": "myci",
-      "host": true
-    },
-    "papki",
+    "fsif",
+    "myci",
     "r4",
     "rasterimage",
     "svgren",
