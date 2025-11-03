@@ -1,14 +1,11 @@
 {
   "name": "r4",
-  "version": "1.0.106",
+  "version": "1.0.107",
   "description": "3d vector math library in C++",
   "homepage": "https://github.com/cppfw/r4",
   "license": "MIT",
   "dependencies": [
-    {
-      "name": "myci",
-      "host": true
-    },
+    "myci",
     "utki",
     {
       "name": "vcpkg-cmake",
