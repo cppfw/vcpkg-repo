@@ -1,17 +1,14 @@
 {
   "name": "rasterimage",
-  "version": "0.1.38",
+  "version": "0.1.39",
   "description": "raster image library in C++",
   "homepage": "https://github.com/cppfw/rasterimage",
   "license": "MIT",
   "dependencies": [
+    "fsif",
     "libjpeg-turbo",
     "libpng",
-    {
-      "name": "myci",
-      "host": true
-    },
-    "papki",
+    "myci",
     "r4",
     "utki",
     {
