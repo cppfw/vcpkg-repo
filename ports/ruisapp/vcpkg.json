@@ -1,18 +1,21 @@
 {
   "name": "ruisapp",
-  "version": "0.2.130",
+  "version": "0.2.131",
   "description": "ruis platform abstraction layer",
   "homepage": "https://github.com/cppfw/ruisapp",
   "license": "MIT",
   "dependencies": [
-    {
-      "name": "myci",
-      "host": true
-    },
+    "myci",
     "nitki",
     "ruis",
-    "ruis-render-opengl",
-    "ruis-render-opengles",
+    {
+      "name": "ruis-render-opengl",
+      "platform": "!ios"
+    },
+    {
+      "name": "ruis-render-opengles",
+      "platform": "!osx"
+    },
     "utki",
     {
       "name": "vcpkg-cmake",
