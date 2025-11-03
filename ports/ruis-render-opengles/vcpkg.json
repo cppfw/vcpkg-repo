@@ -1,6 +1,6 @@
 {
   "name": "ruis-render-opengles",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "description": "ruis OpenGL ES renderer",
   "homepage": "https://github.com/cppfw/ruis-render-opengles",
   "license": "MIT",
@@ -9,10 +9,7 @@
       "name": "angle",
       "platform": "windows"
     },
-    {
-      "name": "myci",
-      "host": true
-    },
+    "myci",
     "ruis",
     "utki",
     {
