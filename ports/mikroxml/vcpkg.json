@@ -1,14 +1,11 @@
 {
   "name": "mikroxml",
-  "version": "0.1.73",
+  "version": "0.1.74",
   "description": "simple stream XML parser in C++",
   "homepage": "https://github.com/cppfw/mikroxml",
   "license": "MIT",
   "dependencies": [
-    {
-      "name": "myci",
-      "host": true
-    },
+    "myci",
     "utki",
     {
       "name": "vcpkg-cmake",
