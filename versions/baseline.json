@@ -68,6 +68,10 @@
       "baseline": "0.2.131",
       "port-version": 0
     },
+    "setka": {
+      "baseline": "1.0.42",
+      "port-version": 0
+    },
     "svgdom": {
       "baseline": "0.4.34",
       "port-version": 0
