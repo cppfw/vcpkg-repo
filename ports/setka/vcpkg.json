@@ -1,0 +1,21 @@
+{
+  "name": "setka",
+  "version": "1.0.42",
+  "description": "filesystem abstraction in C++",
+  "homepage": "https://github.com/cppfw/setka",
+  "license": "MIT",
+  "dependencies": [
+    "fsif",
+    "myci",
+    "nitki",
+    "utki",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
