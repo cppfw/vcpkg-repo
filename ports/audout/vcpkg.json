@@ -1,0 +1,23 @@
+{
+  "name": "audout",
+  "version": "0.3.49",
+  "description": "audio output library in C++",
+  "homepage": "https://github.com/cppfw/audout",
+  "license": "MIT",
+  "dependencies": [
+    "myci",
+    {
+      "name": "nitki",
+      "platform": "linux | windows"
+    },
+    "utki",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
