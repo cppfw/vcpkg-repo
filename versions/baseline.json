@@ -4,6 +4,10 @@
       "baseline": "2.8.39",
       "port-version": 0
     },
+    "audout": {
+      "baseline": "0.3.49",
+      "port-version": 0
+    },
     "clargs": {
       "baseline": "0.2.73",
       "port-version": 0
