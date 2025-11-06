@@ -1,0 +1,20 @@
+{
+  "name": "aumiks",
+  "version": "0.3.44",
+  "description": "audio mixing library in C++",
+  "homepage": "https://github.com/cppfw/aumiks",
+  "license": "MIT",
+  "dependencies": [
+    "audout",
+    "fsif",
+    "myci",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
