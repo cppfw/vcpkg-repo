@@ -8,6 +8,10 @@
       "baseline": "0.3.49",
       "port-version": 0
     },
+    "aumiks": {
+      "baseline": "0.3.44",
+      "port-version": 0
+    },
     "clargs": {
       "baseline": "0.2.73",
       "port-version": 0
