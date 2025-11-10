@@ -1,7 +1,7 @@
 {
   "default": {
     "agg": {
-      "baseline": "2.8.39",
+      "baseline": "2.8.40",
       "port-version": 0
     },
     "audout": {
