@@ -69,7 +69,7 @@
       "port-version": 0
     },
     "ruis-render-opengles": {
-      "baseline": "0.3.6",
+      "baseline": "0.3.7",
       "port-version": 0
     },
     "ruisapp": {
