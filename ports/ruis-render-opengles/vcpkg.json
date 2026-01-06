@@ -1,6 +1,6 @@
 {
   "name": "ruis-render-opengles",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "description": "ruis OpenGL ES renderer",
   "homepage": "https://github.com/cppfw/ruis-render-opengles",
   "license": "MIT",
