@@ -1,6 +1,6 @@
 {
   "name": "veg",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "vector graphics library in C++",
   "homepage": "https://github.com/cppfw/veg",
   "license": "MIT",
