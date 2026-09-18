@@ -1,6 +1,6 @@
 {
   "name": "audout",
-  "version": "0.3.49",
+  "version": "0.3.50",
   "description": "audio output library in C++",
   "homepage": "https://github.com/cppfw/audout",
   "license": "MIT",
