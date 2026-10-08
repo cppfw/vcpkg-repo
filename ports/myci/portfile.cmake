@@ -6,13 +6,15 @@ vcpkg_check_linkage(ONLY_STATIC_LIBRARY)
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO cppfw/${PORT}
-    REF 2e61a6469e9359de711fea7427653743d75d4bf2
-    SHA512 2772da8a134ab9c4337eb446006c4b5535af6c5b92775ca265c47eaad1107cf752b21a6a0e77dc0b8e8e70f3c89697209702b22ebc531120db9a520fe500fb1c
+    REF 23e1d6c8c6067d1ebaaaa4ad3ca07b1df11fae29
+    SHA512 fc82eb81be15a03b4eb901b19b7a0f71d0b7529f7abddac879b4fc5da8f0b99bfa5d8cff8c63437e2c03eae71a6db0f4dc08e4d2426ad3e70652ee8dc25ee78b
     HEAD_REF main
 )
 
 vcpkg_cmake_configure(
     SOURCE_PATH "${SOURCE_PATH}/build/cmake"
+    OPTIONS
+        -D IS_VCPKG_PORT_BUILD=True
 )
 
 vcpkg_cmake_install()
