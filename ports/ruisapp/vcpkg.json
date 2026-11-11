@@ -1,6 +1,6 @@
 {
   "name": "ruisapp",
-  "version": "0.2.144",
+  "version": "0.2.145",
   "description": "ruis platform abstraction layer",
   "homepage": "https://github.com/cppfw/ruisapp",
   "license": "MIT",
@@ -16,6 +16,7 @@
       "name": "ruis-render-opengles",
       "platform": "!osx"
     },
+    "setka",
     "utki",
     {
       "name": "vcpkg-cmake",
