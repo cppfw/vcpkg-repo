@@ -1,6 +1,6 @@
 {
   "name": "ruis",
-  "version": "0.6.26",
+  "version": "0.6.27",
   "description": "GUI library in C++",
   "homepage": "https://github.com/cppfw/ruis",
   "license": "MIT",
