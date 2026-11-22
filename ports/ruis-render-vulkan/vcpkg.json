@@ -1,0 +1,22 @@
+{
+  "name": "ruis-render-vulkan",
+  "version": "0.0.1",
+  "description": "ruis Vulkan renderer",
+  "homepage": "https://github.com/cppfw/ruis-render-vulkan",
+  "license": "MIT",
+  "dependencies": [
+    "myci",
+    "rasterimage",
+    "ruis",
+    "utki",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    },
+    "vulkan"
+  ]
+}
