@@ -1,6 +1,6 @@
 {
   "name": "ruisapp",
-  "version": "0.2.145",
+  "version": "0.2.148",
   "description": "ruis platform abstraction layer",
   "homepage": "https://github.com/cppfw/ruisapp",
   "license": "MIT",
@@ -16,6 +16,8 @@
       "name": "ruis-render-opengles",
       "platform": "!osx"
     },
+    "ruis-render-vulkan",
+    "sdl2",
     "setka",
     "utki",
     {
