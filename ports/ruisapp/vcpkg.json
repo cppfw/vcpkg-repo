@@ -1,6 +1,6 @@
 {
   "name": "ruisapp",
-  "version": "0.2.148",
+  "version": "0.2.149",
   "description": "ruis platform abstraction layer",
   "homepage": "https://github.com/cppfw/ruisapp",
   "license": "MIT",
@@ -27,6 +27,14 @@
     {
       "name": "vcpkg-cmake-config",
       "host": true
+    },
+    {
+      "name": "vulkan-loader",
+      "features": [
+        "wayland",
+        "xlib"
+      ],
+      "platform": "linux"
     }
   ]
 }
