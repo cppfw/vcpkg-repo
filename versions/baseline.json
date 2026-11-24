@@ -73,7 +73,7 @@
       "port-version": 0
     },
     "ruis-render-vulkan": {
-      "baseline": "0.0.1",
+      "baseline": "0.0.2",
       "port-version": 0
     },
     "ruisapp": {
