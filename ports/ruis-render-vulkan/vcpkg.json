@@ -1,6 +1,6 @@
 {
   "name": "ruis-render-vulkan",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ruis Vulkan renderer",
   "homepage": "https://github.com/cppfw/ruis-render-vulkan",
   "license": "MIT",
