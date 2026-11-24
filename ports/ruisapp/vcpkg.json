@@ -17,14 +17,6 @@
       "platform": "!osx"
     },
     "ruis-render-vulkan",
-    {
-      "name": "vulkan-loader",
-      "features": [
-        "xlib",
-        "wayland"
-      ],
-      "platform": "linux"
-    },
     "sdl2",
     "setka",
     "utki",
